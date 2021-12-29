@@ -85,11 +85,11 @@ button{
 	margin: 25px;
 }
 footer{
+	margin: auto;
 	background-color: #7F8094;
 }
 svg{
 	width: 61px;
 	height: 51px;
 	object-fit: contain; 
-	float: right;
 }
