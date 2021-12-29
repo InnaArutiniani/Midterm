@@ -72,3 +72,24 @@ button{
 	width: 872px;
 	height: 582px;
 }
+.text3{
+	width: 1800px;
+	height: 986px;
+	margin-top: 389px;
+}
+.clear{
+	clear: both;
+}
+.text3 img{
+	float: left;
+	margin: 25px;
+}
+footer{
+	background-color: #7F8094;
+}
+svg{
+	width: 61px;
+	height: 51px;
+	object-fit: contain; 
+	float: right;
+}
