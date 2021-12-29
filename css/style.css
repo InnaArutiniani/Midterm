@@ -1,6 +1,12 @@
 body{
 	background: #C6D5FF;
 }
+a{
+	color: black;
+}
+.active a{
+	color:red;
+}
 header{
 	border-radius: 6px;
 	background: transparent;
